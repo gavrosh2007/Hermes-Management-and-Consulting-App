@@ -1,6 +1,6 @@
 # ============================================================
-# robots.txt для Hermes-Management-and-Consulting-App
-# Основной домен: hermes-management-and-consulting-ap.vercel.app
+# robots.txt для Hermes-Management-and-Consulting-App (hm-ct)
+# Основной домен: hm-ct.vercel.app
 # ============================================================
 
 User-agent: *
@@ -47,5 +47,5 @@ Disallow: /
 User-agent: PerplexityBot
 Disallow: /
 
-# ---------- Карта сайта (только Vercel) ----------
-Sitemap: https://hermes-management-and-consulting-ap.vercel.app/sitemap.xml
+# ---------- Карта сайта (только для hm-ct) ----------
+Sitemap: https://hm-ct.vercel.app/sitemap.xml
